@@ -3,9 +3,8 @@
 A minimalist, high-speed Instagram "shell" designed to provide a full experience with maximum storage efficiency.
 
 ## 🚀 Key Features
-* **Tiny Footprint:** Only ~2MB APK size.
+* **Tiny Footprint:** Only ~3MB APK size.
 * **Smart Dark Mode:** Integrated `?theme=dark` toggle for a consistent night-time UI.
-* **Smali Optimized:** Direct bytecode manipulation for peak performance and zero library overhead.
 * **Custom Error Page:** A beautiful, responsive offline page (Made by Bappherh Jr.).
 * **Privacy Focused:** Minimal permissions and no background data-mining.
 
